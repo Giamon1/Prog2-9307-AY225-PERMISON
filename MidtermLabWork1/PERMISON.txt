@@ -1,0 +1,14 @@
+Sales Summary Dashboard
+Scenario:
+You are a junior data analyst assigned to create a quick executive sales summary.
+
+Requirements:
+Read the dataset
+
+Compute:
+Total number of records
+Total sales/revenue
+Average sales per transaction
+Highest single transaction
+Lowest single transaction
+Display formatted analytics report
